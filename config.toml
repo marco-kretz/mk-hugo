@@ -1,0 +1,35 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Eddie Webb"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Marco"
+    lastName = "Kretz"
+    address = "Köln, DE"
+    phone = "1-555-555-1234"
+    contactNote = "Dev Tools Engineer"
+    profileImage = "img/TechChat.png"
+    email = "mk@marco-kretz.de"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/marco-kretz/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/MarcoKretz/"
+
+#[params.google.analytics]
+#trackerID = "XX-123446-01"

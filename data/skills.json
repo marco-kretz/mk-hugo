@@ -1,0 +1,14 @@
+[
+  {
+    "grouping": "Programmiersprachen",
+    "skills": ["JAVA", "PHP", "JavaScript"]
+  },
+  {
+    "grouping": "Frameworks",
+    "skills": ["Wordpress", "Symfony", "express"]
+  },
+  {
+    "grouping": "Technologien",
+    "skills": ["MySQL", "MongoDB", "NodeJS"]
+  }
+]
